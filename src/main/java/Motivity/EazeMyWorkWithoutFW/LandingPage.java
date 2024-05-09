@@ -1,0 +1,9 @@
+package Motivity.EazeMyWorkWithoutFW;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+public class LandingPage {
+	
+	WebDriver driver=new ChromeDriver();
+	
+
+}
